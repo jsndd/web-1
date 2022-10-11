@@ -1,0 +1,44 @@
+{
+  "id": "3668673",
+  "name": "作业1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "145438",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "629343",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "715531",
+      "name": "公告",
+      "font_class": "gonggao",
+      "unicode": "e6c0",
+      "unicode_decimal": 59072
+    },
+    {
+      "icon_id": "2578456",
+      "name": "我的",
+      "font_class": "wode",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "17542146",
+      "name": "我的-我的消息",
+      "font_class": "wode-wodexiaoxi",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    }
+  ]
+}
